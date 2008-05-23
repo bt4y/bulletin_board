@@ -5,20 +5,8 @@
 
 <div id="Termine">
   <h1>Termine</h1>
-  <div id="Termin">
-    <p class="termin_ueberschrift">Neuer Termin</p>
-    <p class="termin_info">Infos zum Termin</p>
-  </div>
   
-  <div id="Termin">
-    <p class="termin_ueberschrift">Neuer Termin</p>
-    <p class="termin_info">Infos zum Termin</p>
-  </div>
-  
-  <div id="Termin">
-    <p class="termin_ueberschrift">Neuer Termin</p>
-    <p class="termin_info">Infos zum Termin</p>
-  </div>
+  <%= render :partial => "appointment", :collection => @appointments %>
 </div>
 
 <div id="Veranstaltungen">
