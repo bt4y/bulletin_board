@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20080523093347) do
+ActiveRecord::Schema.define(:version => 20080523095327) do
 
   create_table "appointments", :force => true do |t|
     t.string   "title"
@@ -17,6 +17,7 @@ ActiveRecord::Schema.define(:version => 20080523093347) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.datetime "hide_at"
+    t.datetime "show_at"
   end
 
 end
