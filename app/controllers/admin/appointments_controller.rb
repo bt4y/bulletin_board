@@ -1,4 +1,6 @@
 class Admin::AppointmentsController < ApplicationController
+  layout "admin"
+
   def index
     @appointments = Appointment.all
   end

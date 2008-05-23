@@ -1,0 +1,22 @@
+<div class="item">
+  <h1>Einen neuen Termin eintragen</h1>
+  <% form_for [:admin, @appointment] do |f| %>
+  <dl>
+    <dt><%= f.label :title, "Title"%></dt>
+    <dd><%= f.text_field :title, :class => "styled" %></dd>
+  </dl>
+  <dl>
+    <dt><%= f.label :body, "Nachricht"%></dt>
+    <dd><%= f.text_area :body, :class => "styled" %></dd>
+  </dl>
+  <dl>
+    <dt><%= f.label :show_at, "Anzeigen ab:"%></dt>
+    <dd><%= f.date_select :show_at %></dd>
+  </dl>
+  <dl>
+    <dt><%= f.label :hide_at, "Verstecken ab:"%></dt>
+    <dd><%= f.date_select :hide_at %></dd>
+  </dl>
+  <%= f.submit "Eintragen" %>
+  <% end %>
+</div>
