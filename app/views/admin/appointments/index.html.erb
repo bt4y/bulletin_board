@@ -2,9 +2,9 @@
 <div class="item">
   <h1><%= appointment.title%></h1>
   <p><%= appointment.body %></p>
-  <p><strong>Erstellt am:</strong> <%= appointment.created_at.to_s(:long) %>
-  <p><strong>Anzeigen ab:</strong> <%= appointment.show_at.to_s(:long) %></p>
-  <p><strong>Verstecken ab:</strong> <%= appointment.hide_at.to_s(:short) %></p>
+  <p><strong>Erstellt am:</strong> <%= appointment.created_at.l(:short) %>
+  <p><strong>Anzeigen ab:</strong> <%= appointment.show_on.l(:short) %></p>
+  <p><strong>Verstecken ab:</strong> <%= appointment.hide_on.l(:short) %></p>
   <p><%= link_to "Bearbeiten", :action => "edit", :id => appointment %>
     | <%= link_to "Löschen", {:action => "destroy", :id => appointment}, :method => "delete" %></p>
 </div>
