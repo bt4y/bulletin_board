@@ -1,0 +1,16 @@
+<dl>
+  <dt><%= form.label :title, "Titel" %></dt>
+  <dd><%= form.text_field :title, :class => "styled" %></dd>
+</dl>
+<dl>
+  <dt><%= form.label :body, "Nachricht"%></dt>
+  <dd><%= form.text_area :body, :class => "styled" %></dd>
+</dl>
+<dl>
+  <dt><%= form.label :show_at, "Anzeigen ab:" %></dt>
+  <dd><%= form.date_select :show_at %></dd>
+</dl>
+<dl>
+  <dt><%= form.label :hide_at, "Verstecken ab:" %></dt>
+  <dd><%= form.date_select :hide_at %></dd>
+</dl>
