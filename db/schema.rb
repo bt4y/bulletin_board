@@ -9,15 +9,15 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20080523095327) do
+ActiveRecord::Schema.define(:version => 20080527215715) do
 
   create_table "appointments", :force => true do |t|
     t.string   "title"
     t.text     "body"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.datetime "hide_at"
-    t.datetime "show_at"
+    t.date     "show_on"
+    t.date     "hide_on"
   end
 
 end
