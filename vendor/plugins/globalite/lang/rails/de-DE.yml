@@ -1,6 +1,6 @@
 locale_name: Deutsch (Deutschland)
 # ActiveRecord::Errors.default_error_messages
-error_message_inclusion: ist nicht in Liste gültiger Optionen enthalten.
+error_message_inclusion: ist nicht in der Liste der gültigen Optionen enthalten.
 error_message_exclusion: ist reserviert.
 error_message_invalid: ist ungültig.
 error_message_confirmation: entspricht nicht der Bestätigung.
@@ -57,8 +57,8 @@ array_connector: 'und'
 array_skip_last_comma: 'false'
 
 # Active Record error messages:
-active_record_helper_error_description: 'Es gab Probleme mit den folgenden Feldern:'
-active_record_helper_header_message: Durch pluralize{{error_count}, Fehler, Fehler} konnte {failed_object} nicht gespeichert werden.
+active_record_helper_error_description: 'Es sind folgende Probleme aufgetreten:'
+active_record_helper_header_message: Auf Grund von pluralize{{error_count}, Fehler, Fehler} konnte {failed_object} nicht gespeichert werden.
 
 date_helper_month_names:
  -              # Leave that line
