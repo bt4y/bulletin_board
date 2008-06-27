@@ -7,7 +7,7 @@ if (!Date.now) {
 }
 
 function updateClock() {
-  var el = $("uhr");
+  var el = $("Uhr");
   var time = new Date();
   
   var hours = time.getHours(),
@@ -24,11 +24,11 @@ function updateClock() {
     seconds = "0" + seconds;
 
   
-  el.update("<p>" + hours + ":" + minutes + ":" + seconds + "</p>");
+  el.update('<p class="uhr_schrift">' + hours + ":" + minutes + ":" + seconds + "</p>");
 }
 
 document.observe("dom:loaded", function(ev) {
-  if ($("uhr")) {
+  if ($("Uhr")) {
     window.setInterval(updateClock, 1000);
   }
 })
