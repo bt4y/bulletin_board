@@ -5,26 +5,14 @@
       <tr>
         <th colspan="8" class="datum">Donnerstag 8. Mai</th>
       </tr>
-      <% previous_class = nil %>
-      <% @vertretungen_heute.each_sorted_by_class do |vertretung| %>
-        <tr>
-          <td class="klasse"><%= vertretung[:klasse] if vertretung[:klasse] != previous_class %></td>
-          <td class="stunde"><%= vertretung[:stunde] %></td>
-          <td class="lehrer"><%= vertretung[:lehrer] %></td>
-          <td class="fach"><%= vertretung[:fach] %></td>
-          <td class="raum"><%= vertretung[:raum] %></td>
-          <td class="pfeil">&#x2192;</td>
-          <td class="lehrer"><%= vertretung[:vertretung] %></td>
-          <td class="info"><%= vertretung[:lehrer] %></td>
-        </tr>
-        <% previous_class = vertretung[:klasse] %>
-      <% end %>
+      <%= render :partial => "vertretungen_klasse", :object => @vertretungen_heute %>
     </table>
 
     <table class="vertretungsplan right">
       <tr>
         <th colspan="8" class="datum">Donnerstag 8. Mai</th>
       </tr>
+      <%= render :partial => "vertretungen_klasse", :object => @vertretungen_morgen %>
     </table>
   </div>
 
