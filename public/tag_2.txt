@@ -1,1 +1,352 @@
-123
+Vertretungsplan f¸r
+Donnerstag, 8. Mai 2008
+fehlende Lehrer:
+Bun	 1 - P2	Lim	 1 - P2
+Div	 3 -  3	Bˆh	 1 - P2
+Bil	 1 - P2	Kor	 6 - P2
+SaK	 1 - P2	Voe	 1 - P2
+Oes	 1 - P2	Leh	 1 - P2
+Waz	 1 - P2	Ren	 6 -  6
+Jab	 1 - P2
+fehlende Klassen:
+11c	 1 - P2
+10a
+ 2	Jab	Gk	R10a		==>	Pre	
+ 3	Div	E	R10a		==>	Bur	
+ 5	Waz	KR	RFR	r10	==>	ReR	
+10b
+ 1	Voe	L	R10b		==>	-----	frei
+ 2	Voe	L	R10b		==>	-----	frei
+ 3	Jab	Gk	R10b		==>	Kra	
+ 5	Waz	KR	RFR	r10	==>	ReR	
+10c
+ 2	Oes	F	R10c		==>	OeP	
+ 3	Oes	F	R10c		==>	Die	
+ 5	Bil	EvR	DFR	r10	==>	Sto	
+ 5	Waz	KR	RFR	r10	==>	ReR	
+12
+ 3	Bun	E	GFR	12P2	==>	-----	frei
+ 3	Leh	E	EFR	12P2	==>	-----	frei
+ 4	Bun	E	GFR	12P2	==>	-----	frei
+ 4	Leh	E	EFR	12P2	==>	-----	frei
+ 5	SaK	bk	BkR	12C1	==>	-----	frei
+ 6	SaK	bk	BkR	12C1	==>	-----	frei
+ 8	SaK	bk	BkR	12B1	==>	-----	frei
+ 9	SaK	bk	BkR	12B1	==>	-----	frei
+13
+ 3	Lim	D	FFR	13P1	==>	-----	frei
+ 4	Lim	D	FFR	13P1	==>	-----	frei
+ 5	Jab	gk	FFR	13H	==>	?????	Kae
+ 5	Lim	g	GFR	13H	==>	-----	frei
+ 6	Jab	gk	FFR	13H	==>	?????	Kae
+ 6	Lim	g	GFR	13H	==>	-----	frei
+10	SaK	bk	BkR	13E	==>	-----	frei
+11	SaK	bk	BkR	13E	==>	-----	frei
+5a
+ 1	Bun	E	R5a		==>	-----	frei
+ 2	Bun	E	R5a		==>	Gla	
+ 3	Bil	EvR	R5a	r5	==>	WeW	
+ 8	Lim	D	R10a	I5b	==>	-----	frei
+ 9	Lim	D	R10a	I5b	==>	-----	frei Ganztageskinder in 5b Musik Frau Arnemann
+5c
+ 4	Waz	D	R5c		==>	Tal	
+ 8	Leh	E	R5c		==>	Zie	
+7b
+ 8	Bˆh	Ch	Che1		==>	-----	frei
+ 9	Bˆh	Ch	Che1		==>	-----	frei
+7c
+ 8	Jab	G	R7c		==>	Mos	
+8a
+ 1	Bˆh	Ch	Che1		==>	-----	frei
+8c
+ 1	Die	Ph	Ph2		==>	-----	frei | verlegt auf  2 
+ 2	Leh	E	R8c		==>	Die	in Raum Ph1 | statt  1  
+ 5	Leh	E	R8c		==>	?????	Frau Neetzke
+9a
+ 1	Bil	EvR	R9a	r9	==>	-----	frei
+ 1	Waz	KR	RFR	r9	==>	-----	frei
+ 2	Bil	EvR	R9a	r9	==>	-----	frei
+ 2	Waz	KR	RFR	r9	==>	-----	frei
+ 6	Oes	E	R9a		==>	ScS	
+9b
+ 1	Waz	KR	RFR	r9	==>	-----	frei
+ 2	Waz	KR	RFR	r9	==>	-----	frei
+ 4	Jab	G	R9b		==>	-----	frei
+ 5	Bˆh	Ch	Che1		==>	-----	frei
+ 6	Bˆh	Ch	Che1		==>	-----	frei
+9c
+ 1	Waz	KR	RFR	r9	==>	-----	frei
+ 2	Waz	KR	RFR	r9	==>	-----	frei
+ 6	Ren	M	R9c		==>	-----	frei
+9d
+ 1	Bil	EvR	R9a	r9	==>	-----	frei
+ 1	Waz	KR	RFR	r9	==>	-----	frei
+ 2	Bil	EvR	R9a	r9	==>	-----	frei
+ 2	Waz	KR	RFR	r9	==>	-----	frei
+ 3	Bˆh	Ch	Che1		==>	GlM	
+ 4	Bˆh	Ch	Che1		==>	Kae	statt Fr, 9. Mai   1 
+ 6	Leh	E	R9d		==>	-----	frei
+Ersatzraumplan f¸r
+Donnerstag, 8. Mai 2008
+Vertretungsplan f¸r
+Donnerstag, 8. Mai 2008
+fehlende Lehrer:
+Bun	 1 - P2	Lim	 1 - P2
+Div	 3 -  3	Bˆh	 1 - P2
+Bil	 1 - P2	Kor	 6 - P2
+SaK	 1 - P2	Voe	 1 - P2
+Oes	 1 - P2	Leh	 1 - P2
+Waz	 1 - P2	Ren	 6 -  6
+Jab	 1 - P2
+fehlende Klassen:
+11c	 1 - P2
+ 6	Jab	13H	gk	FFR	Kae
+ 5	Leh	8c	E	R8c	Frau Neetzke
+ 5	Jab	13H	gk	FFR	Kae
+ 1	Bil	r9	EvR	R9a	frei
+ 1	Bˆh	8a	Ch	Che1	frei
+ 1	Bun	5a	E	R5a	frei
+ 1	Die	8c	Ph	Ph2	frei | verlegt auf  2 
+ 1	Voe	10b	L	R10b	frei
+ 1	Waz	r9	KR	RFR	frei
+ 2	Bil	r9	EvR	R9a	frei
+ 2	Voe	10b	L	R10b	frei
+ 2	Waz	r9	KR	RFR	frei
+ 3	Bun	12P2	E	GFR	frei
+ 3	Leh	12P2	E	EFR	frei
+ 3	Lim	13P1	D	FFR	frei
+ 4	Bun	12P2	E	GFR	frei
+ 4	Jab	9b	G	R9b	frei
+ 4	Leh	12P2	E	EFR	frei
+ 4	Lim	13P1	D	FFR	frei
+ 5	Bˆh	9b	Ch	Che1	frei
+ 5	Lim	13H	g	GFR	frei
+ 5	SaK	12C1	bk	BkR	frei
+ 6	Bˆh	9b	Ch	Che1	frei
+ 6	Leh	9d	E	R9d	frei
+ 6	Lim	13H	g	GFR	frei
+ 6	Ren	9c	M	R9c	frei
+ 6	SaK	12C1	bk	BkR	frei
+ 7	Waz		AG	R10b	frei
+ 8	Bˆh	7b	Ch	Che1	frei
+ 8	Lim	I5b	D	R10a	frei
+ 8	SaK	12B1	bk	BkR	frei
+ 8	Waz		AG	R10b	frei
+ 9	Bˆh	7b	Ch	Che1	frei
+ 9	Lim	I5b	D	R10a	frei
+ 9	SaK	12B1	bk	BkR	frei
+10	SaK	13E	bk	BkR	frei
+11	SaK	13E	bk	BkR	frei
+Bur
+ 3	Div	10a	E	R10a	
+Die
+ 2	Leh	8c	E	R8c	in Raum Ph1 | statt  1  
+ 3	Oes	10c	F	R10c	
+Gla
+ 2	Bun	5a	E	R5a	
+GlM
+ 3	Bˆh	9d	Ch	Che1	
+Kae
+ 4	Bˆh	9d	Ch	Che1	statt Fr, 9. Mai   1 
+Kra
+ 3	Jab	10b	Gk	R10b	
+Loh
+P1	Bˆh		Aufs		
+Mos
+ 8	Jab	7c	G	R7c	
+OeP
+ 2	Oes	10c	F	R10c	
+Pre
+ 2	Jab	10a	Gk	R10a	
+ReR
+ 5	Waz	r10	KR	RFR	
+P1	Waz		Aufs		
+ScS
+ 6	Oes	9a	E	R9a	
+Sto
+ 5	Bil	r10	EvR	DFR	
+P1	Lim		Aufs		
+Tal
+ 4	Waz	5c	D	R5c	
+WeW
+ 3	Bil	r5	EvR	R5a	
+Zie
+ 8	Leh	5c	E	R5c	
+Ersatzraumplan f¸r
+Donnerstag, 8. Mai 2008
+Vertretungsplan f¸r
+Donnerstag, 8. Mai 2008
+fehlende Lehrer:
+Bun	 1 - P2	Lim	 1 - P2
+Div	 3 -  3	Bˆh	 1 - P2
+Bil	 1 - P2	Kor	 6 - P2
+SaK	 1 - P2	Voe	 1 - P2
+Oes	 1 - P2	Leh	 1 - P2
+Waz	 1 - P2	Ren	 6 -  6
+Jab	 1 - P2
+fehlende Klassen:
+11c	 1 - P2
+10a
+ 2	Jab	Gk	R10a		==>	Pre	
+ 3	Div	E	R10a		==>	Bur	
+ 5	Waz	KR	RFR	r10	==>	ReR	
+10b
+ 1	Voe	L	R10b		==>	-----	frei
+ 2	Voe	L	R10b		==>	-----	frei
+ 3	Jab	Gk	R10b		==>	Kra	
+ 5	Waz	KR	RFR	r10	==>	ReR	
+10c
+ 2	Oes	F	R10c		==>	OeP	
+ 3	Oes	F	R10c		==>	Die	
+ 5	Bil	EvR	DFR	r10	==>	Sto	
+ 5	Waz	KR	RFR	r10	==>	ReR	
+12
+ 3	Bun	E	GFR	12P2	==>	-----	frei
+ 3	Leh	E	EFR	12P2	==>	-----	frei
+ 4	Bun	E	GFR	12P2	==>	-----	frei
+ 4	Leh	E	EFR	12P2	==>	-----	frei
+ 5	SaK	bk	BkR	12C1	==>	-----	frei
+ 6	SaK	bk	BkR	12C1	==>	-----	frei
+ 8	SaK	bk	BkR	12B1	==>	-----	frei
+ 9	SaK	bk	BkR	12B1	==>	-----	frei
+13
+ 3	Lim	D	FFR	13P1	==>	-----	frei
+ 4	Lim	D	FFR	13P1	==>	-----	frei
+ 5	Jab	gk	FFR	13H	==>	?????	Kae
+ 5	Lim	g	GFR	13H	==>	-----	frei
+ 6	Jab	gk	FFR	13H	==>	?????	Kae
+ 6	Lim	g	GFR	13H	==>	-----	frei
+10	SaK	bk	BkR	13E	==>	-----	frei
+11	SaK	bk	BkR	13E	==>	-----	frei
+5a
+ 1	Bun	E	R5a		==>	-----	frei
+ 2	Bun	E	R5a		==>	Gla	
+ 3	Bil	EvR	R5a	r5	==>	WeW	
+ 8	Lim	D	R10a	I5b	==>	-----	frei
+ 9	Lim	D	R10a	I5b	==>	-----	frei Ganztageskinder in 5b Musik Frau Arnemann
+5c
+ 4	Waz	D	R5c		==>	Tal	
+ 8	Leh	E	R5c		==>	Zie	
+7b
+ 8	Bˆh	Ch	Che1		==>	-----	frei
+ 9	Bˆh	Ch	Che1		==>	-----	frei
+7c
+ 8	Jab	G	R7c		==>	Mos	
+8a
+ 1	Bˆh	Ch	Che1		==>	-----	frei
+8c
+ 1	Die	Ph	Ph2		==>	-----	frei | verlegt auf  2 
+ 2	Leh	E	R8c		==>	Die	in Raum Ph1 | statt  1  
+ 5	Leh	E	R8c		==>	?????	Frau Neetzke
+9a
+ 1	Bil	EvR	R9a	r9	==>	-----	frei
+ 1	Waz	KR	RFR	r9	==>	-----	frei
+ 2	Bil	EvR	R9a	r9	==>	-----	frei
+ 2	Waz	KR	RFR	r9	==>	-----	frei
+ 6	Oes	E	R9a		==>	ScS	
+9b
+ 1	Waz	KR	RFR	r9	==>	-----	frei
+ 2	Waz	KR	RFR	r9	==>	-----	frei
+ 4	Jab	G	R9b		==>	-----	frei
+ 5	Bˆh	Ch	Che1		==>	-----	frei
+ 6	Bˆh	Ch	Che1		==>	-----	frei
+9c
+ 1	Waz	KR	RFR	r9	==>	-----	frei
+ 2	Waz	KR	RFR	r9	==>	-----	frei
+ 6	Ren	M	R9c		==>	-----	frei
+9d
+ 1	Bil	EvR	R9a	r9	==>	-----	frei
+ 1	Waz	KR	RFR	r9	==>	-----	frei
+ 2	Bil	EvR	R9a	r9	==>	-----	frei
+ 2	Waz	KR	RFR	r9	==>	-----	frei
+ 3	Bˆh	Ch	Che1		==>	GlM	
+ 4	Bˆh	Ch	Che1		==>	Kae	statt Fr, 9. Mai   1 
+ 6	Leh	E	R9d		==>	-----	frei
+Ersatzraumplan f¸r
+Donnerstag, 8. Mai 2008
+Vertretungsplan f¸r
+Donnerstag, 8. Mai 2008
+fehlende Lehrer:
+Bun	 1 - P2	Lim	 1 - P2
+Div	 3 -  3	Bˆh	 1 - P2
+Bil	 1 - P2	Kor	 6 - P2
+SaK	 1 - P2	Voe	 1 - P2
+Oes	 1 - P2	Leh	 1 - P2
+Waz	 1 - P2	Ren	 6 -  6
+Jab	 1 - P2
+fehlende Klassen:
+11c	 1 - P2
+ 6	Jab	13H	gk	FFR	Kae
+ 5	Leh	8c	E	R8c	Frau Neetzke
+ 5	Jab	13H	gk	FFR	Kae
+ 1	Bil	r9	EvR	R9a	frei
+ 1	Bˆh	8a	Ch	Che1	frei
+ 1	Bun	5a	E	R5a	frei
+ 1	Die	8c	Ph	Ph2	frei | verlegt auf  2 
+ 1	Voe	10b	L	R10b	frei
+ 1	Waz	r9	KR	RFR	frei
+ 2	Bil	r9	EvR	R9a	frei
+ 2	Voe	10b	L	R10b	frei
+ 2	Waz	r9	KR	RFR	frei
+ 3	Bun	12P2	E	GFR	frei
+ 3	Leh	12P2	E	EFR	frei
+ 3	Lim	13P1	D	FFR	frei
+ 4	Bun	12P2	E	GFR	frei
+ 4	Jab	9b	G	R9b	frei
+ 4	Leh	12P2	E	EFR	frei
+ 4	Lim	13P1	D	FFR	frei
+ 5	Bˆh	9b	Ch	Che1	frei
+ 5	Lim	13H	g	GFR	frei
+ 5	SaK	12C1	bk	BkR	frei
+ 6	Bˆh	9b	Ch	Che1	frei
+ 6	Leh	9d	E	R9d	frei
+ 6	Lim	13H	g	GFR	frei
+ 6	Ren	9c	M	R9c	frei
+ 6	SaK	12C1	bk	BkR	frei
+ 7	Waz		AG	R10b	frei
+ 8	Bˆh	7b	Ch	Che1	frei
+ 8	Lim	I5b	D	R10a	frei
+ 8	SaK	12B1	bk	BkR	frei
+ 8	Waz		AG	R10b	frei
+ 9	Bˆh	7b	Ch	Che1	frei
+ 9	Lim	I5b	D	R10a	frei
+ 9	SaK	12B1	bk	BkR	frei
+10	SaK	13E	bk	BkR	frei
+11	SaK	13E	bk	BkR	frei
+Bur
+ 3	Div	10a	E	R10a	
+Die
+ 2	Leh	8c	E	R8c	in Raum Ph1 | statt  1  
+ 3	Oes	10c	F	R10c	
+Gla
+ 2	Bun	5a	E	R5a	
+GlM
+ 3	Bˆh	9d	Ch	Che1	
+Kae
+ 4	Bˆh	9d	Ch	Che1	statt Fr, 9. Mai   1 
+Kra
+ 3	Jab	10b	Gk	R10b	
+Loh
+P1	Bˆh		Aufs		
+Mos
+ 8	Jab	7c	G	R7c	
+OeP
+ 2	Oes	10c	F	R10c	
+Pre
+ 2	Jab	10a	Gk	R10a	
+ReR
+ 5	Waz	r10	KR	RFR	
+P1	Waz		Aufs		
+ScS
+ 6	Oes	9a	E	R9a	
+Sto
+ 5	Bil	r10	EvR	DFR	
+P1	Lim		Aufs		
+Tal
+ 4	Waz	5c	D	R5c	
+WeW
+ 3	Bil	r5	EvR	R5a	
+Zie
+ 8	Leh	5c	E	R5c	
+Ersatzraumplan f¸r
+Donnerstag, 8. Mai 2008

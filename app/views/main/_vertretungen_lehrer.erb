@@ -1,0 +1,14 @@
+<% previous_teacher = nil %>
+<% vertretungen_lehrer.each_sorted_by_teacher do |vertretung| %>
+  <tr>
+    <td class="klasse"><%= vertretung[:lehrer] if vertretung[:lehrer] != previous_teacher %></td>
+    <td class="stunde"><%= vertretung[:stunde] %></td>
+    <td class="lehrer"><%= vertretung[:klasse] %></td>
+    <td class="fach"><%= vertretung[:fach] %></td>
+    <td class="raum"><%= vertretung[:raum] %></td>
+    <td class="pfeil">&#x2192;</td>
+    <td class="lehrer"><%= vertretung[:vertretung] %></td>
+    <td class="info"><%= vertretung[:info] %></td>
+  </tr>
+  <% previous_teacher = vertretung[:lehrer] %>
+<% end %>
