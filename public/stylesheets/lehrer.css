@@ -1,0 +1,175 @@
+body {
+	#overflow: hidden;
+  width: 1920px;
+  height:1200px;
+  background: #dbe9ff;
+  font-family: "Lucida Grande";
+  font-size:20px;
+  margin:0;
+}
+
+h1 {
+  background-color:#2222ff;
+  margin:0;
+  padding-left:10px;
+  border-bottom:1px solid black;
+  font-size:40px;
+  text-align: middle;
+  color:white;
+}
+
+h2 {
+  background-color:#2222ff;
+  margin:0;
+  padding-left:10px;
+  border-bottom:1px solid black;
+  border-top:1px solid black;
+  font-size:40px;
+  text-align: middle;
+  color:white;
+}
+
+h3 {
+  background-color:red;
+  margin:0;
+  padding-left:10px;
+  border-bottom:1px solid black;
+  border-top:1px solid black;
+  font-size:80px;
+  text-align: middle;
+  color:white;
+}
+ 
+div#Vertretungsplan {
+  background:white;
+  border-right:1px solid black;
+  border-bottom:1px solid black;
+  height: 1175px;
+  width: 1350px;
+  float: left;
+}
+
+div#Termine {
+  background:white;
+  margin-left:10px;
+  border-left:1px solid black;
+  border-right:0;
+  border-bottom:1px solid black;
+  height: 700px;
+  width: 558px;
+  float:left;
+}
+ 
+div#Termin {
+  background:white;
+  border-top:1px solid black;
+  border-bottom:1px solid black;
+  margin-top:10px;
+  margin-left:0;
+  margin-right:0;
+}
+
+p.termin_ueberschrift {
+	border-top:1px solid black;
+  color:#2222ff;
+  background-color:#d7d7d7;
+  margin-top:0;
+	margin-bottom:0;
+  padding:2px;
+  border-bottom:1px solid black;
+}
+  
+p.termin_info {
+  margin:5px;
+}
+
+div#Nachricht {
+  background:white;
+  margin-left:10px;
+	margin-bottom:10px;
+  border-left:1px solid black;
+  border-right:0;
+  border-bottom:1px solid black;
+  height: 463px;
+  width: 558px;
+  float:left;
+}
+
+div#infobox {
+  clear: both;
+  width: 1920px;
+  height: 55px;
+  padding-top:10px;
+  margin:0;
+}
+
+div#uhr {
+  border-right:1px solid black;
+  border-top:1px solid black;
+  width:225px;
+  height:55px;
+  background-color:white;
+  float:left;
+}
+
+div#uhr p {
+  font-size:50px;
+  margin:0;
+}
+
+div#newsticker {
+  height:55px;
+  background-color:white;
+  border-left:1px solid black;
+  border-top:1px solid black;
+  margin-left: 240px;
+  margin-right:0;
+  margin-bottom:0;
+}
+
+div#newsticker p {
+  font-size:30px;
+  margin:0;
+  padding-top:10px;
+}
+
+div#vertretungsplan_container {
+	padding: 10px 0px 0px 10px;
+}
+
+table.vertretungsplan {
+	font-size: 16px;
+	width: 540px;
+}
+
+table.vertretungsplan .datum {
+	text-align: left;
+	font-size: 20px;
+}
+
+table.right {
+}
+
+td.stunde {
+	width: 30px;
+}
+
+td.klasse {
+	font-weight: bold;
+}
+
+td.lehrer, td.fach, td.klasse {
+	width: 50px;
+}
+
+td.raum {
+	width: 70px;
+}
+
+td.pfeil {
+	width: 20px;
+}
+
+table.left {
+  float: left;	
+} 

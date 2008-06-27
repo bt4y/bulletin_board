@@ -3,4 +3,8 @@ class MainController < ApplicationController
     @appointments = Appointment.recent
     @stand_ins = StandInProcessor.new(File.read(RAILS_ROOT + "/public/tag_1.txt"))
   end
+  
+  def lehrer
+    render :layout => "lehrer"
+  end
 end
