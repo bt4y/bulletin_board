@@ -1,5 +1,5 @@
 body {
-	#overflow: hidden;
+	overflow: hidden;
   width: 1920px;
   height:1200px;
   background: #dbe9ff;
@@ -95,7 +95,7 @@ div#Nachricht {
   float:left;
 }
 
-div#Uhr {
+div#uhr {
 	margin-left:10px;
   border-left:1px solid black;
   border-top:1px solid black;

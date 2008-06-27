@@ -1,28 +1,29 @@
-	<div id="Vertretungsplan">
-  	<h1>Vertretungsplan</h1>
-  	<div id="vertretungsplan_container">
-  	  <table class="vertretungsplan left">
-        <tr>
-          <th colspan="8" class="datum">Donnerstag 8. Mai</th>
-        </tr>
-        <%= render :partial => "vertretungen_lehrer", :object => @vertretungen_heute %>
-      </table>
+<div id="Vertretungsplan">
+ 	<h1>Vertretungsplan</h1>
+ 	<div id="vertretungsplan_container">
+ 	  <table class="vertretungsplan left">
+       <tr>
+         <th colspan="8" class="datum">Donnerstag 8. Mai</th>
+       </tr>
+       <%= render :partial => "vertretungen_lehrer", :object => @vertretungen_heute %>
+     </table>
 
-      <table class="vertretungsplan right">
-        <tr>
-          <th colspan="8" class="datum">Donnerstag 8. Mai</th>
-        </tr>
-        <%= render :partial => "vertretungen_lehrer", :object => @vertretungen_morgen %>
-      </table>
-  	</div>
-	</div>
+     <table class="vertretungsplan right">
+       <tr>
+         <th colspan="8" class="datum">Donnerstag 8. Mai</th>
+       </tr>
+       <%= render :partial => "vertretungen_lehrer", :object => @vertretungen_morgen %>
+     </table>
+ 	</div>
+</div>
+	
+<div id="Nachricht">
+  <h3>Wichtige Info</h3>
+</div>
 
+<div id="Termine">
+ 	<h2>Termine</h2>
+</div>
 
-	<div id="Nachricht">
-  	<h3>Wichtige Info</h3>
-	</div>
-	<div id="Termine">
-  	<h2>Termine</h2>
-	</div>
-	<div id="Uhr">
-	</div>
+<div id="Uhr">
+</div>
