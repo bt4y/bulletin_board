@@ -7,7 +7,7 @@
   <meta name="description" content="description"/>
   <meta name="keywords" content="keywords"/> 
   <meta name="author" content="author"/>
-  <%= stylesheet_link_tag "transparentia" %>
+  <%= stylesheet_link_tag "transparentia", "flash" %>
   <title>Transparentia</title>
 </head>
 
@@ -22,6 +22,12 @@
     </div>
     
     <div class="content">
+      <% if flash[:notice] %>
+        <div id="flash">
+          <div class="notice"><p><%= flash[:notice] %></p></div>
+        </div>
+      <% end %>
+      
       <%= yield %>
     </div>
 

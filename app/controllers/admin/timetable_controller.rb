@@ -19,6 +19,7 @@ class Admin::TimetableController < ApplicationController
       f.write params[:tag_2]
     end
     
+    flash[:notice] = "Die Aktualisierung des Vertretungsplanes war erfolgreich."
     redirect_to :action => :edit
   end
 end

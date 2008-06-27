@@ -1,0 +1,20 @@
+#flash .notice, #flash .warning, #flash .error {
+  border: 1px solid;
+  margin-bottom: 10px; }
+  #flash .notice p, #flash .warning p, #flash .error p {
+    background: #fff;
+    border: 5px solid;
+    margin: 0px;
+    padding: 7px; }
+#flash .notice {
+  border-color: #339933; }
+  #flash .notice p {
+    border-color: #66CC33; }
+#flash .warning {
+  border-color: #FF9933; }
+  #flash .warning p {
+    border-color: #FFCC33; }
+#flash .error {
+  border-color: #990000; }
+  #flash .error p {
+    border-color: #FF0000; }
