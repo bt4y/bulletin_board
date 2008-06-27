@@ -42,4 +42,8 @@ class StandInProcessor
       end
     end.each(&block)
   end
+  
+  def each_sorted_by_teacher(&block)
+    @vertretungen.sort_by { |vertretung| vertretung[:lehrer] }.each(&block)
+  end
 end
