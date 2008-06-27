@@ -1,0 +1,229 @@
+Vertretungsplan für
+Mittwoch, 4. Jun 2008
+fehlende Lehrer:
+Ren	 1 - P2	SaK	 1 - P2
+Div	 6 -  6	Kae	 1 - P2
+Wol	 1 -  6	Hep	 6 -  6
+Tal	 6 -  6	WeG	 6 -  6
+Gra	 6 -  6	CaB	 6 -  6
+ScC	 6 -  6	HaM	 6 -  6
+AmR	 6 -  6	Heu	 6 -  6
+Lim	 6 -  6	Loh	 6 -  6
+Oes	 6 -  6	Wel	 6 -  6
+Jab	 5 -  6	OeP	 6 -  6
+Sic	 6 -  6	SchoQ	 6 -  6
+Sto	 6 -  6	Bur	 6 -  6
+Bun	 1 -  2	Wue	 5 -  6
+Ben	 6 -  6	Bau	 6 -  6
+Hil	 6 -  6
+fehlende Räume:
+EkR	 6 -  6
+10a
+ 5	Jab	Gk	Ph2		==>	Bur	
+ 6	Div	E	EFR		==>	-----	frei
+10b
+ 4	Ren	M	R10b		==>	Bub	
+10c
+ 6	Hil	Mu	MuS		==>	-----	frei
+11c
+ 6	Jab	Gk	MzkR		==>	-----	frei
+12
+ 5	Kae	evR	RFR	12R	==>	?????	Exkursion
+ 5	Wue	kr	MFR	12R	==>	-----	frei
+ 6	Kae	evR	RFR	12R	==>	-----	frei
+ 6	SchoQ	eth	EkR	12R	==>	-----	frei
+ 6	Wue	kr	MFR	12R	==>	-----	frei
+13
+ 6	Gra	bk	BkR	13M	==>	-----	frei
+ 6	Wol	bio	Bio1	13M	==>	-----	frei
+5c
+ 6	Tal	Nat	ChÜ	I5c	==>	-----	frei
+6a
+ 6	Ben	E	R6a		==>	Puh	in Raum Bio2 
+6b
+ 6	Hep	S			==>	-----	frei
+7c
+ 6	Oes	F	R7c	Sr7	==>	-----	frei
+8a
+ 1	Wol	SW		S8	==>	?????	Div
+ 2	Wol	SW		S8	==>	?????	Div
+8b
+ 1	Wol	SW		S8	==>	?????	Div
+ 2	Wol	SW		S8	==>	?????	Div
+8c
+ 1	Bun	SW		S8	==>	-----	frei
+ 2	Bun	SW		S8	==>	-----	frei
+9a
+ 6	ScC	Ch	Che1		==>	-----	frei
+9b
+ 1	Ren	M	R9b		==>	-----	frei
+ 2	Ren	M	R9b		==>	-----	frei
+Ersatzraumplan für
+Mittwoch, 4. Jun 2008
+12
+ 6	SchoQ	eth	EkR	12R	==>	?????	frei
+Vertretungsplan für
+Mittwoch, 4. Jun 2008
+fehlende Lehrer:
+Ren	 1 - P2	SaK	 1 - P2
+Div	 6 -  6	Kae	 1 - P2
+Wol	 1 -  6	Hep	 6 -  6
+Tal	 6 -  6	WeG	 6 -  6
+Gra	 6 -  6	CaB	 6 -  6
+ScC	 6 -  6	HaM	 6 -  6
+AmR	 6 -  6	Heu	 6 -  6
+Lim	 6 -  6	Loh	 6 -  6
+Oes	 6 -  6	Wel	 6 -  6
+Jab	 5 -  6	OeP	 6 -  6
+Sic	 6 -  6	SchoQ	 6 -  6
+Sto	 6 -  6	Bur	 6 -  6
+Bun	 1 -  2	Wue	 5 -  6
+Ben	 6 -  6	Bau	 6 -  6
+Hil	 6 -  6
+fehlende Räume:
+EkR	 6 -  6
+ 5	Kae	12R	evR	RFR	Exkursion
+ 2	Wol	S8	SW		Div
+ 1	Wol	S8	SW		Div
+ 1	Bun	S8	SW		frei
+ 1	Ren	9b	M	R9b	frei
+ 2	Bun	S8	SW		frei
+ 2	Ren	9b	M	R9b	frei
+ 5	Wue	12R	kr	MFR	frei
+ 6	Div	10a	E	EFR	frei
+ 6	Gra	13M	bk	BkR	frei
+ 6	Hep	6b	S		frei
+ 6	Hil	10c	Mu	MuS	frei
+ 6	Jab	11c	Gk	MzkR	frei
+ 6	Kae	12R	evR	RFR	frei
+ 6	Oes	Sr7	F	R7c	frei
+ 6	ScC	9a	Ch	Che1	frei
+ 6	SchoQ	12R	eth	EkR	frei
+ 6	Tal	I5c	Nat	ChÜ	frei
+ 6	Wol	13M	bio	Bio1	frei
+ 6	Wue	12R	kr	MFR	frei
+Bub
+ 4	Ren	10b	M	R10b	
+Bur
+ 5	Jab	10a	Gk	Ph2	
+Puh
+ 6	Ben	6a	E	R6a	in Raum Bio2 
+Ersatzraumplan für
+Mittwoch, 4. Jun 2008
+SchoQ
+ 6	12R	eth	EkR	==>	?????	frei
+Vertretungsplan für
+Mittwoch, 4. Jun 2008
+fehlende Lehrer:
+Ren	 1 - P2	SaK	 1 - P2
+Div	 6 -  6	Kae	 1 - P2
+Wol	 1 -  6	Hep	 6 -  6
+Tal	 6 -  6	WeG	 6 -  6
+Gra	 6 -  6	CaB	 6 -  6
+ScC	 6 -  6	HaM	 6 -  6
+AmR	 6 -  6	Heu	 6 -  6
+Lim	 6 -  6	Loh	 6 -  6
+Oes	 6 -  6	Wel	 6 -  6
+Jab	 5 -  6	OeP	 6 -  6
+Sic	 6 -  6	SchoQ	 6 -  6
+Sto	 6 -  6	Bur	 6 -  6
+Bun	 1 -  2	Wue	 5 -  6
+Ben	 6 -  6	Bau	 6 -  6
+Hil	 6 -  6
+fehlende Räume:
+EkR	 6 -  6
+10a
+ 5	Jab	Gk	Ph2		==>	Bur	
+ 6	Div	E	EFR		==>	-----	frei
+10b
+ 4	Ren	M	R10b		==>	Bub	
+10c
+ 6	Hil	Mu	MuS		==>	-----	frei
+11c
+ 6	Jab	Gk	MzkR		==>	-----	frei
+12
+ 5	Kae	evR	RFR	12R	==>	?????	Exkursion
+ 5	Wue	kr	MFR	12R	==>	-----	frei
+ 6	Kae	evR	RFR	12R	==>	-----	frei
+ 6	SchoQ	eth	EkR	12R	==>	-----	frei
+ 6	Wue	kr	MFR	12R	==>	-----	frei
+13
+ 6	Gra	bk	BkR	13M	==>	-----	frei
+ 6	Wol	bio	Bio1	13M	==>	-----	frei
+5c
+ 6	Tal	Nat	ChÜ	I5c	==>	-----	frei
+6a
+ 6	Ben	E	R6a		==>	Puh	in Raum Bio2 
+6b
+ 6	Hep	S			==>	-----	frei
+7c
+ 6	Oes	F	R7c	Sr7	==>	-----	frei
+8a
+ 1	Wol	SW		S8	==>	?????	Div
+ 2	Wol	SW		S8	==>	?????	Div
+8b
+ 1	Wol	SW		S8	==>	?????	Div
+ 2	Wol	SW		S8	==>	?????	Div
+8c
+ 1	Bun	SW		S8	==>	-----	frei
+ 2	Bun	SW		S8	==>	-----	frei
+9a
+ 6	ScC	Ch	Che1		==>	-----	frei
+9b
+ 1	Ren	M	R9b		==>	-----	frei
+ 2	Ren	M	R9b		==>	-----	frei
+Ersatzraumplan für
+Mittwoch, 4. Jun 2008
+12
+ 6	SchoQ	eth	EkR	12R	==>	?????	frei
+Vertretungsplan für
+Mittwoch, 4. Jun 2008
+fehlende Lehrer:
+Ren	 1 - P2	SaK	 1 - P2
+Div	 6 -  6	Kae	 1 - P2
+Wol	 1 -  6	Hep	 6 -  6
+Tal	 6 -  6	WeG	 6 -  6
+Gra	 6 -  6	CaB	 6 -  6
+ScC	 6 -  6	HaM	 6 -  6
+AmR	 6 -  6	Heu	 6 -  6
+Lim	 6 -  6	Loh	 6 -  6
+Oes	 6 -  6	Wel	 6 -  6
+Jab	 5 -  6	OeP	 6 -  6
+Sic	 6 -  6	SchoQ	 6 -  6
+Sto	 6 -  6	Bur	 6 -  6
+Bun	 1 -  2	Wue	 5 -  6
+Ben	 6 -  6	Bau	 6 -  6
+Hil	 6 -  6
+fehlende Räume:
+EkR	 6 -  6
+ 5	Kae	12R	evR	RFR	Exkursion
+ 2	Wol	S8	SW		Div
+ 1	Wol	S8	SW		Div
+ 1	Bun	S8	SW		frei
+ 1	Ren	9b	M	R9b	frei
+ 2	Bun	S8	SW		frei
+ 2	Ren	9b	M	R9b	frei
+ 5	Wue	12R	kr	MFR	frei
+ 6	Div	10a	E	EFR	frei
+ 6	Gra	13M	bk	BkR	frei
+ 6	Hep	6b	S		frei
+ 6	Hil	10c	Mu	MuS	frei
+ 6	Jab	11c	Gk	MzkR	frei
+ 6	Kae	12R	evR	RFR	frei
+ 6	Oes	Sr7	F	R7c	frei
+ 6	ScC	9a	Ch	Che1	frei
+ 6	SchoQ	12R	eth	EkR	frei
+ 6	Tal	I5c	Nat	ChÜ	frei
+ 6	Wol	13M	bio	Bio1	frei
+ 6	Wue	12R	kr	MFR	frei
+Bub
+ 4	Ren	10b	M	R10b	
+Bur
+ 5	Jab	10a	Gk	Ph2	
+Puh
+ 6	Ben	6a	E	R6a	in Raum Bio2 
+Ersatzraumplan für
+Mittwoch, 4. Jun 2008
+SchoQ
+ 6	12R	eth	EkR	==>	?????	frei
+

@@ -1,0 +1,16 @@
+<div class="item">
+  <h1>Vertretungsplan aktualisieren</h1>
+  <% form_tag :controller => :timetable, :action => :update do %>
+
+
+	<dl>
+	  <dt><%= label_tag :tag_1, "Heute"%></dt>
+	  <dd><%= text_area_tag :tag_1, @tag_1, :cols => 40, :rows => 20, :class => "styled" %></dd>
+	</dl>
+	 <dl>
+	  <dt><%= label_tag :tag_2, "Morgen"%></dt>
+	  <dd><%= text_area_tag :tag_2, @tag_2, :cols => 40, :rows => 20, :class => "styled" %></dd>
+	</dl>
+    <%= submit_tag "Aktualisieren" %>
+  <% end %>
+</div>
