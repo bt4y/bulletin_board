@@ -5,21 +5,19 @@
       <tr>
         <th colspan="8" class="datum">Donnerstag 8. Mai</th>
       </tr>
-      <% @stand_ins.sort_by { |k, v| k.to_i }.each do |klazz, stunden| %>
-        <% show_class = true %>
-        <% stunden.each do |stunde| %>
+      <% previous_class = nil %>
+      <% @vertretungen_heute.each_sorted_by_class do |vertretung| %>
         <tr>
-          <td class="klasse"><%= klazz if show_class %></td>
-          <td class="stunde"><%= stunde[0] %></td>
-          <td class="lehrer"><%= stunde[1] %></td>
-          <td class="fach"><%= stunde[2] %></td>
-          <td class="raum"><%= stunde[3].chars %></td>
+          <td class="klasse"><%= vertretung[:klasse] if vertretung[:klasse] != previous_class %></td>
+          <td class="stunde"><%= vertretung[:stunde] %></td>
+          <td class="lehrer"><%= vertretung[:lehrer] %></td>
+          <td class="fach"><%= vertretung[:fach] %></td>
+          <td class="raum"><%= vertretung[:raum] %></td>
           <td class="pfeil">&#x2192;</td>
-          <td class="lehrer"><%= stunde[6] %></td>
-          <td class="info"><%= stunde[7] %></td>
+          <td class="lehrer"><%= vertretung[:vertretung] %></td>
+          <td class="info"><%= vertretung[:lehrer] %></td>
         </tr>
-        <% show_class = false %>
-        <% end %>
+        <% previous_class = vertretung[:klasse] %>
       <% end %>
     </table>
 
@@ -27,18 +25,6 @@
       <tr>
         <th colspan="8" class="datum">Donnerstag 8. Mai</th>
       </tr>
-      <% 41.times do %>
-      <tr>
-        <td class="klasse">10a</td>
-        <td class="stunde">2</td>
-        <td class="lehrer">Jab</td>
-        <td class="fach">Gk</td>
-        <td class="raum">R10a</td>
-        <td class="pfeil">&#x2192;</td>
-        <td class="lehrer">Pre</td>
-        <td class="info">in Raum PH1 | statt 1</td>
-      </tr>
-      <% end %>
     </table>
   </div>
 
