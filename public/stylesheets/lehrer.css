@@ -1,5 +1,4 @@
 body {
-	overflow: hidden;
   width: 1920px;
   height:1200px;
   background: #dbe9ff;
@@ -68,6 +67,18 @@ div#Termin {
   margin-left:0;
   margin-right:0;
 }
+
+div#Uhr {
+	margin-left:10px;
+  border-left:1px solid black;
+  border-top:1px solid black;
+  width:558px;
+  height:55px;
+  background-color:white;
+	float:left;
+	margin-top:10px;
+	font-size:20px;
+	}
 
 p.termin_ueberschrift {
 	border-top:1px solid black;
