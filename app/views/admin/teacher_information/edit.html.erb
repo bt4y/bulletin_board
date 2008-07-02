@@ -1,0 +1,11 @@
+<div class="item">
+  <h1>Eine bestehende Lehrer-Information bearbeiten</h1>
+  <%= error_messages_for :information %>
+  
+  <% form_for :teacher_information, @information,
+      :url => { :controller => "admin/teacher_information", :action => :update, :id => @information },
+      :html => { :method => :put } do |f| %>
+    <%= render :partial => f %>
+    <%= f.submit "Aktualisieren" %>
+  <% end %>
+</div>

@@ -1,6 +1,16 @@
-<h1>Termine</h1>
+<h1>Informationen</h1>
 <ul>
   <li><%= link_to "Alle Informationen anzeigen", admin_information_path %></li>
   <li><%= link_to "Neue Information eintragen", new_admin_information_member_path %></li>
-  <li><%= link_to "Vertretungsplan bearbeiten", :controller=>:timetable,:action=>:edit %></li>
+</ul>
+
+<h1>Lehrer-Informationen</h1>
+<ul>
+  <li><%= link_to "Alle Lehrer-Infos anzeigen", admin_teacher_information_path %></li>
+  <li><%= link_to "Neue Lehrer-Info eintragen", :controller => "teacher_information", :action => :new %></li>
+</ul>
+
+<h1>Vertretungsplan</h1>
+<ul>
+  <li><%= link_to "Vertretungsplan bearbeiten", :controller => :timetable, :action => :edit %></li>
 </ul>

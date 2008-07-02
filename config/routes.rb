@@ -37,6 +37,7 @@ ActionController::Routing::Routes.draw do |map|
 
   map.namespace :admin do |admin|
     admin.resources :information, :singular => :information_member
+    admin.resources :teacher_information, :singular => :teacher_information_member
   end
 
   map.resource :session

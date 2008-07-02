@@ -18,11 +18,13 @@
 </div>
 	
 <div id="Nachricht">
-  <h3>Wichtige Info</h3>
+  <h1>Lehrer-Infos</h1>
+  <%= render :partial => "information", :collection => @information %>
 </div>
 
 <div id="Termine">
- 	<h2>Termine</h2>
+  <h1>Allgemeine Infos</h1>
+  <%= render :partial => "information", :collection => @information %>
 </div>
 
 <div id="Uhr">

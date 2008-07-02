@@ -1,0 +1,9 @@
+<div class="item">
+  <h1>Eine neue Lehrer-Information eintragen</h1>
+  <%= error_messages_for :information %>
+  <% form_for :teacher_information, @information,
+      :url => { :controller => "admin/teacher_information", :action => :create } do |f| %>
+    <%= render :partial => f %>
+    <%= f.submit "Eintragen" %>
+  <% end %>
+</div>

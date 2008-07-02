@@ -1,8 +1,8 @@
-class Admin::InformationController < ApplicationController
+class Admin::TeacherInformationController < ApplicationController
   layout "admin"
 
   def index
-    @information = Information.general
+    @information = Information.teacher
   end
   
   def new
@@ -10,7 +10,8 @@ class Admin::InformationController < ApplicationController
   end
   
   def create
-    @information = Information.new(params[:information])
+    @information = Information.new(params[:teacher_information])
+    @information.teachers_only = true
     if @information.save
       redirect_to :action => :index
     else
@@ -24,7 +25,8 @@ class Admin::InformationController < ApplicationController
   
   def update
     @information = Information.find(params[:id])
-    if @information.update_attributes(params[:information])
+    @information.teachers_only = true
+    if @information.update_attributes(params[:teacher_information])
       redirect_to :action => :index
     else
       render :action => :edit

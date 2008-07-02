@@ -68,24 +68,6 @@ fehlende Klassen:
  2	Bil	EvR	R9a	r9	==>	-----	frei
  2	Waz	KR	RFR	r9	==>	-----	frei
  6	Oes	E	R9a		==>	ScS	
-9b
- 1	Waz	KR	RFR	r9	==>	-----	frei
- 2	Waz	KR	RFR	r9	==>	-----	frei
- 4	Jab	G	R9b		==>	-----	frei
- 5	Bˆh	Ch	Che1		==>	-----	frei
- 6	Bˆh	Ch	Che1		==>	-----	frei
-9c
- 1	Waz	KR	RFR	r9	==>	-----	frei
- 2	Waz	KR	RFR	r9	==>	-----	frei
- 6	Ren	M	R9c		==>	-----	frei
-9d
- 1	Bil	EvR	R9a	r9	==>	-----	frei
- 1	Waz	KR	RFR	r9	==>	-----	frei
- 2	Bil	EvR	R9a	r9	==>	-----	frei
- 2	Waz	KR	RFR	r9	==>	-----	frei
- 3	Bˆh	Ch	Che1		==>	GlM	
- 4	Bˆh	Ch	Che1		==>	Kae	statt Fr, 9. Mai   1 
- 6	Leh	E	R9d		==>	-----	frei
 Ersatzraumplan f¸r
 Donnerstag, 8. Mai 2008
 Vertretungsplan f¸r
