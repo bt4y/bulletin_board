@@ -1,0 +1,8 @@
+<div class="item">
+  <h1>Eine neue Information eintragen</h1>
+  <%= error_messages_for :information %>
+  <% form_for [:admin, @information] do |f| %>
+    <%= render :partial => f %>
+    <%= f.submit "Eintragen" %>
+  <% end %>
+</div>

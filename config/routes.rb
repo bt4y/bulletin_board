@@ -36,7 +36,7 @@ ActionController::Routing::Routes.draw do |map|
   # See how all your routes lay out with "rake routes"
 
   map.namespace :admin do |admin|
-    admin.resources :appointments
+    admin.resources :information, :singular => :information_member
   end
 
   map.resource :session

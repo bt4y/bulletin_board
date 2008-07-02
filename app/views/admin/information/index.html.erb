@@ -1,0 +1,11 @@
+<% @information.each do |information| %>
+<div class="item">
+  <h1><%= information.title%></h1>
+  <p><%= information.body %></p>
+  <p><strong>Erstellt am:</strong> <%= information.created_at.l(:short) %>
+  <p><strong>Anzeigen ab:</strong> <%= information.show_on.l(:short) %></p>
+  <p><strong>Verstecken ab:</strong> <%= information.hide_on.l(:short) %></p>
+  <p><%= link_to "Bearbeiten", :action => :edit, :id => information %>
+    | <%= link_to "Löschen", {:action => :destroy, :id => information}, :method => "delete" %></p>
+</div>
+<% end %>

@@ -1,0 +1,9 @@
+<div class="item">
+  <h1>Eine bestehende Information bearbeiten</h1>
+  <%= error_messages_for :information %>
+  
+  <% form_for :information, @information, :url => admin_information_member_path(@information), :html => { :method => :put } do |f| %>
+    <%= render :partial => f %>
+    <%= f.submit "Aktualisieren" %>
+  <% end %>
+</div>

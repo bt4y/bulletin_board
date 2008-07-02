@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20080702075102) do
+ActiveRecord::Schema.define(:version => 20080702080648) do
 
   create_table "information", :force => true do |t|
     t.string   "title"
@@ -18,6 +18,7 @@ ActiveRecord::Schema.define(:version => 20080702075102) do
     t.boolean  "teachers_only"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.date     "show_on"
   end
 
 end

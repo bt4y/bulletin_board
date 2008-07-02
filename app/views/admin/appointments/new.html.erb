@@ -1,8 +1,0 @@
-<div class="item">
-  <h1>Einen neuen Termin eintragen</h1>
-  <%= error_messages_for :appointment %>
-  <% form_for [:admin, @appointment] do |f| %>
-    <%= render :partial => f %>
-    <%= f.submit "Eintragen" %>
-  <% end %>
-</div>
