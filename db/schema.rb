@@ -9,15 +9,15 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20080527215715) do
+ActiveRecord::Schema.define(:version => 20080702075102) do
 
-  create_table "appointments", :force => true do |t|
+  create_table "information", :force => true do |t|
     t.string   "title"
     t.text     "body"
+    t.date     "hide_on"
+    t.boolean  "teachers_only"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.date     "show_on"
-    t.date     "hide_on"
   end
 
 end
