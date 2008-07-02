@@ -8,7 +8,10 @@
   <%= javascript_include_tag :defaults %>
 </head>
 <body>
-  <%= yield %>
+  <div id="main_content">
+    <%= yield %>
+    <%= periodically_call_remote :url => {} %>
+  </div>
 </body>
 </html>
 
