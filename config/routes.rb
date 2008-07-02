@@ -43,6 +43,9 @@ ActionController::Routing::Routes.draw do |map|
 
   map.root :controller => "main"
 
+  map.connect "lehrer", :controller => "main", :action => "lehrer"
+
+
   # Install the default routes as the lowest priority.
   map.connect ':controller/:action/:id'
   map.connect ':controller/:action/:id.:format'
