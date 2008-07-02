@@ -1,7 +1,11 @@
 class StandInProcessor
   attr_reader :vertretungen
+  attr_reader :date
   
   def initialize(text)
+    text.match(/(\w+, \d+\. \w+ \d{4})/)
+    @date = $1
+    
     @vertretungen = []
     
     klasse = nil
@@ -35,7 +39,6 @@ class StandInProcessor
       a, b = a[:klasse], b[:klasse]
       
       if a != b && a.to_i == b.to_i
-        p a[-1] <=> b[-1]
         a[-1] <=> b[-1]
       else
         a.to_i <=> b.to_i

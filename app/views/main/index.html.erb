@@ -3,14 +3,14 @@
   <div id="vertretungsplan_container">
     <table class="vertretungsplan left">
       <tr>
-        <th colspan="8" class="datum">Donnerstag 8. Mai</th>
+        <th colspan="8" class="datum"><%= @vertretungen_heute.date %></th>
       </tr>
       <%= render :partial => "vertretungen_klasse", :object => @vertretungen_heute %>
     </table>
 
     <table class="vertretungsplan right">
       <tr>
-        <th colspan="8" class="datum">Donnerstag 8. Mai</th>
+        <th colspan="8" class="datum"><%= @vertretungen_morgen.date %></th>
       </tr>
       <%= render :partial => "vertretungen_klasse", :object => @vertretungen_morgen %>
     </table>
