@@ -22,5 +22,6 @@
   <%= render :partial => "information", :collection => @information %>
 </div>
 
- <div id="Uhr">
- </div>
+<div id="Uhr">
+  <p class="uhr_schrift"><%= Time.now.strftime("%H:%M:%S") %></p>
+</div>
